@@ -1,0 +1,8 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "prettier.endOfLine": "lf",
+  "files.eol": "\n",
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+}
